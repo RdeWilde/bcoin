@@ -39,7 +39,7 @@ See the [Beginner's Guide][guide] for more in-depth installation instructions.
 
 ## Support
 
-Join us on [slack][slack] channel.
+Join us on [gitter][gitter] channel.
 
 ## Disclaimer
 
@@ -57,10 +57,11 @@ all code is your original work. `</legalese>`
 
 - Copyright (c) 2014-2015, Fedor Indutny (MIT License).
 - Copyright (c) 2014-2017, Christopher Jeffrey (MIT License).
+- Copyright (c) 2017-3333, Janko33 (MIT License).
 
 See LICENSE for more info.
 
 [purse]: https://purse.io
 [guide]: https://github.com/bcoin-org/bcoin/blob/master/docs/Beginner's-Guide.md
-[slack]: https://slack-blackcoin.herokuapp.com/
+[gitter]: https://slack-blackcoin.herokuapp.com/
 [changelog]: https://github.com/bcoin-org/bcoin/blob/master/CHANGELOG.md
