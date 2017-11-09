@@ -63,5 +63,5 @@ See LICENSE for more info.
 
 [purse]: https://purse.io
 [guide]: https://github.com/bcoin-org/bcoin/blob/master/docs/Beginner's-Guide.md
-[gitter]: https://slack-blackcoin.herokuapp.com/
+[gitter]: https://gitter.im/BlackCoin_Hub
 [changelog]: https://github.com/bcoin-org/bcoin/blob/master/CHANGELOG.md
