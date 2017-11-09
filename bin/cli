@@ -8,14 +8,14 @@ const Client = require('../lib/http/client');
 const Wallet = require('../lib/http/wallet');
 
 function CLI() {
-  this.config = new Config('bcoin');
+  this.config = new Config('goji');
 
   this.config.load({
     argv: true,
     env: true
   });
 
-  this.config.open('bcoin.conf');
+  this.config.open('goji.conf');
 
   this.argv = this.config.argv;
   this.client = null;

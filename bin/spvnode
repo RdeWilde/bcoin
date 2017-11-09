@@ -2,7 +2,7 @@
 
 'use strict';
 
-process.title = 'bcoin';
+process.title = 'goji';
 
 const assert = require('assert');
 const bcoin = require('../');

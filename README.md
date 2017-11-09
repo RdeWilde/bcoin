@@ -1,17 +1,13 @@
-# Bcoin
+# Goji (Bcoin ported to Blackcoin)
 
-__NOTE__: The latest release of bcoin contains a non-backward compatible change
+__NOTE__: The latest release of goji contains a non-backward compatible change
 to the rest API. Please read the [changelog]'s "migrating" section for more
 details.
 
 ---
 
-**Bcoin** is an alternative implementation of the bitcoin protocol, written in
+**Goji** is an alternative implementation of the blackcoin protocol, written in
 node.js.
-
-Although still in a beta state, bcoin is well tested and aware of all known
-consensus rules. It is currently used in production as the consensus backend
-and wallet system for [purse.io][purse].
 
 ## Uses
 
@@ -27,10 +23,10 @@ Try it in the browser: http://bcoin.io/browser.html
 ## Install
 
 ```
-$ git clone git://github.com/bcoin-org/bcoin.git
-$ cd bcoin
+$ git clone https://github.com/janko33bd/goji.git
+$ cd goji
 $ npm install
-$ ./bin/bcoin
+$ ./bin/goji
 ```
 
 See the [Beginner's Guide][guide] for more in-depth installation instructions.
@@ -43,11 +39,11 @@ See the [Beginner's Guide][guide] for more in-depth installation instructions.
 
 ## Support
 
-Join us on [freenode][freenode] in the [#bcoin][irc] channel.
+Join us on [slack][slack] channel.
 
 ## Disclaimer
 
-Bcoin does not guarantee you against theft or lost funds due to bugs, mishaps,
+Goji does not guarantee you against theft or lost funds due to bugs, mishaps,
 or your own incompetence. You and you alone are responsible for securing your
 money.
 
@@ -66,6 +62,5 @@ See LICENSE for more info.
 
 [purse]: https://purse.io
 [guide]: https://github.com/bcoin-org/bcoin/blob/master/docs/Beginner's-Guide.md
-[freenode]: https://freenode.net/
-[irc]: irc://irc.freenode.net/bcoin
+[slack]: https://slack-blackcoin.herokuapp.com/
 [changelog]: https://github.com/bcoin-org/bcoin/blob/master/CHANGELOG.md
