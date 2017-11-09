@@ -12,7 +12,7 @@ node.js.
 ## Uses
 
 - Full Node
-- SPV Node
+- ~SPV Node~
 - Wallet Backend (bip44 derivation)
 - Mining Backend (getblocktemplate support)
 - Layer 2 Backend (lightning)
