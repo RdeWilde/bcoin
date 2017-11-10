@@ -23,7 +23,7 @@ Try it in the browser: http://bcoin.io/browser.html
 ## Install
 
 ```
-$ git clone https://github.com/janko33bd/goji.git
+$ git clone -b goji https://github.com/janko33bd/bcoin.git goji
 $ cd goji
 $ npm install
 $ ./bin/goji
